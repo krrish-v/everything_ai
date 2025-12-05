@@ -1,0 +1,151 @@
+domain,text
+oncology,Patient presents with persistent cough; CT suggests possible lung mass.
+oncology,Biopsy confirms invasive ductal carcinoma of the breast.
+oncology,Patient reports unexplained weight loss over past month.
+oncology,CT abdomen shows multiple hepatic lesions suspicious for metastasis.
+oncology,Enlarged lymph nodes noted on PET scan; lymphoma suspected.
+oncology,Patient complains of severe fatigue; CBC shows anemia.
+oncology,Skin lesion with irregular borders; melanoma biopsy ordered.
+oncology,MRI reveals small enhancing mass in left kidney.
+oncology,Patient reports abdominal bloating; ovarian tumor suspected.
+oncology,Low-dose CT indicates early-stage lung cancer.
+oncology,Colonoscopic biopsy confirms adenocarcinoma.
+oncology,Patient reports difficulty swallowing; esophageal mass visualized.
+oncology,PSA elevated; prostate biopsy scheduled.
+oncology,Mammogram shows spiculated mass at 2 o'clock position.
+oncology,Patient reports bone pain; bone scan shows osteolytic lesions.
+oncology,PET scan shows increased uptake in mediastinal nodes.
+oncology,Thyroid nodule FNA reveals papillary carcinoma.
+oncology,Patient reports chronic hoarseness; laryngeal mass detected.
+oncology,CT brain identifies enhancing tumor in parietal lobe.
+oncology,Leukocytosis with blasts; leukemia suspected.
+oncology,Liver MRI shows hemangioma; benign appearance.
+oncology,Patient presents with persistent rectal bleeding.
+oncology,Pancreatic head mass causes bile duct obstruction.
+oncology,CA-125 elevated; ovarian malignancy likely.
+oncology,Patient reports persistent back pain; vertebral lesion found.
+oncology,Gastric biopsy confirms adenocarcinoma.
+oncology,MRI shows infiltrative breast lesion.
+oncology,PET scan indicates metastatic spread to bones.
+oncology,Patient reports night sweats and fever; lymphoma workup started.
+oncology,CT chest reveals solitary pulmonary nodule.
+oncology,Biopsy confirms basal cell carcinoma on cheek.
+oncology,Patient reports blood in urine; bladder mass detected.
+oncology,Bone marrow biopsy consistent with multiple myeloma.
+oncology,Elevated AFP suggests liver malignancy.
+oncology,Patient reports persistent headaches; brain MRI abnormal.
+oncology,PET scan shows uptake in colorectal region.
+oncology,Thyroid ultrasound reveals solid hypoechoic nodule.
+oncology,Biopsy confirms squamous cell carcinoma of skin.
+oncology,Patient reports chronic pelvic pain; pelvic mass seen.
+oncology,CT abdomen shows enlarged spleen; malignancy possible.
+oncology,Breast MRI reveals multicentric disease.
+oncology,Patient reports swollen neck node; biopsy positive for lymphoma.
+oncology,PET scan shows hypermetabolic liver lesions.
+oncology,Ovarian cystic mass concerning for malignancy.
+oncology,Patient reports ongoing fatigue post-chemotherapy.
+oncology,CT chest shows pleural effusion; malignancy suspected.
+oncology,MRI spine identifies metastatic lesions.
+oncology,Skin biopsy confirms early melanoma.
+oncology,Patient has elevated CEA; colon cancer relapse possible.
+oncology,CT reveals retroperitoneal mass.
+oncology,Patient reports chronic cough; bronchoscopy scheduled.
+oncology,Liver biopsy confirms metastatic adenocarcinoma.
+oncology,Hypercalcemia noted; possible bone metastases.
+oncology,Patient reports persistent abdominal cramping; colon mass found.
+oncology,PET scan shows hypermetabolism in cervical lymph nodes.
+oncology,Breast lump firm and fixed; suspicious for malignancy.
+oncology,CT-guided biopsy confirms lung adenocarcinoma.
+oncology,Patient experiences neuropathy following chemotherapy.
+oncology,Brain MRI shows stable postoperative changes.
+oncology,Biopsy reveals benign fibroadenoma.
+oncology,CT abdomen reveals pancreatic tail mass.
+oncology,Patient reports recurrent fevers; leukemia considered.
+oncology,Bone scan shows diffuse metastasis.
+oncology,PET scan indicates residual disease in lymph nodes.
+oncology,Multiple pulmonary nodules found on CT.
+oncology,Patient reports difficulty breathing; mediastinal mass noted.
+oncology,Colonoscopy identifies polyp with high-grade dysplasia.
+oncology,Ovary enlarged with solid components; malignancy likely.
+oncology,Patient reports jaundice; pancreatic cancer suspected.
+oncology,CT brain shows edema around tumor.
+oncology,Biopsy confirms glioblastoma multiforme.
+oncology,PET scan indicates remission.
+oncology,Breast tumor size reduced after chemotherapy.
+oncology,Patient reports chest pain; lung tumor growth seen.
+oncology,CT abdomen shows adrenal mass.
+oncology,Splenic enlargement concerning for hematologic malignancy.
+oncology,Patient presents with persistent nausea; gastric mass detected.
+oncology,MRI pelvis reveals cervical tumor enlargement.
+oncology,Lymph node biopsy confirms Hodgkin lymphoma.
+oncology,PET scan shows high uptake in pelvic bone.
+oncology,CT finds mass compressing inferior vena cava.
+oncology,Patient reports bone fractures from minimal trauma; metastasis possible.
+oncology,Liver function worsens; hepatic tumor progression suspected.
+oncology,CT chest reveals recurrent lung tumor.
+oncology,Patient reports trouble urinating; prostate mass enlarged.
+oncology,Spinal MRI shows epidural tumor compression.
+oncology,Breast MRI shows suspicious enhancement.
+oncology,Patient reports coughing blood; urgent CT ordered.
+oncology,Biopsy reveals renal cell carcinoma.
+oncology,PET scan shows improvement post-radiation.
+oncology,Soft-tissue mass found in thigh; MRI ordered.
+oncology,Patient reports persistent itching; lymphoma symptom.
+oncology,MRI brain reveals metastatic lesions.
+oncology,CT abdomen confirms colonic obstruction.
+oncology,Bone marrow infiltration seen on biopsy.
+oncology,Patient reports abdominal fullness; splenic tumor suspected.
+oncology,Biopsy confirms endometrial carcinoma.
+oncology,PET scan shows persistent metabolic activity.
+oncology,Multiple enlarged lymph nodes found on imaging.
+oncology,Patient reports persistent vomiting; stomach tumor likely.
+oncology,Thyroid cancer recurrence suspected on imaging.
+oncology,CT pelvis reveals ovarian tumor growth.
+oncology,Patient reports back pain; spinal metastasis confirmed.
+oncology,Breast biopsy reveals ductal carcinoma in situ.
+oncology,PET scan identifies recurrence in liver.
+oncology,CT detects small renal mass incidentally.
+oncology,Patient reports severe fatigue; anemia due to malignancy.
+oncology,Bone scan positive for metastasis to ribs.
+oncology,Biopsy confirms Merkel cell carcinoma.
+oncology,Patient reports persistent cough; lung mass enlarging.
+oncology,Pancreatic cancer progression noted on CT.
+oncology,PET scan shows widespread metastasis.
+oncology,Skin exam reveals suspicious new lesion.
+oncology,Patient reports abdominal mass; CT shows large tumor.
+oncology,Biopsy confirms malignant melanoma.
+oncology,CT chest shows persistent pleural-based lesion.
+oncology,MRI abdomen shows liver metastases.
+oncology,Patient reports urinary obstruction; bladder tumor growing.
+oncology,PET scan shows reduced uptake; good treatment response.
+oncology,Bone pain reported; metastasis suspected.
+oncology,Breast lesion stable after radiation.
+oncology,Patient reports severe nausea post-chemotherapy.
+oncology,CT reveals peritoneal carcinomatosis.
+oncology,Biopsy reveals squamous cell carcinoma of tongue.
+oncology,PET scan confirms nodal involvement.
+oncology,CT neck shows large cervical mass.
+oncology,Patient reports difficulty swallowing; throat tumor noted.
+oncology,Ovarian tumor markers elevated.
+oncology,Liver tumor showing response to therapy.
+oncology,CT finds multiple bone lesions.
+oncology,Patient reports chest tightness; tumor compressing airway.
+oncology,Brain MRI shows post-treatment stability.
+oncology,Biopsy confirms lymphoma relapse.
+oncology,CT shows improved condition after therapy.
+oncology,Patient reports new lump under arm; biopsy planned.
+oncology,PET scan negative for new disease.
+oncology,Lymph node enlargement persists.
+oncology,CT finds pulmonary embolism along with tumor.
+oncology,MRI shows tumor encasing spinal cord.
+oncology,Patient reports dizziness; brain metastasis suspected.
+oncology,Biopsy reveals basal cell carcinoma recurrence.
+oncology,CT abdomen shows stable pancreatic mass.
+oncology,PET scan shows no activity; remission likely.
+oncology,Breast tumor recurrence seen on imaging.
+oncology,Patient reports weight loss; staging scans ordered.
+oncology,Bone biopsy confirms metastatic involvement.
+oncology,CT chest reveals central lung mass.
+oncology,MRI brain shows no acute tumor growth.
+oncology,Patient reports fatigue after radiation therapy.
+oncology,Biopsy confirms malignant lymphoma.
