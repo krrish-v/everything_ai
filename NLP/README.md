@@ -32,6 +32,6 @@ for sentence in sentences:
     # L2 Normalize the embeddings (Standard practice for cosine similarity)
     embedding = torch.nn.functional.normalize(embedding, p=2, dim=1) 
     
-    all_embeddings.append(embedding)
+    all_embeddings.append(embedding.cpu().numpy())
 
 ```
