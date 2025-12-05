@@ -1,0 +1,758 @@
+domain,text
+orthopedic_surgery,Persistent hip pain suggests possible tendinopathy.
+plastic_surgery,Suture removal completed; no complications.
+ophthalmology,Severe photophobia with tearing.
+dermatology,Psoriasis flare noted after recent stress.
+orthopedic_surgery,Bone fusion expected within next six weeks.
+plastic_surgery,Swelling persists around upper eyelid incision.
+plastic_surgery,Nasal deviation corrected successfully.
+plastic_surgery,Skin flap repositioning scheduled.
+orthopedic_surgery,Hip joint range of motion improving with therapy.
+dermatology,Darkened neck skin suggests acanthosis nigricans.
+plastic_surgery,Breast implant rupture suspected; MRI ordered.
+dermatology,Multiple skin fissures on heels.
+dermatology,Nodular acne present on upper back.
+dermatology,Small hemangioma seen on infant’s scalp.
+orthopedic_surgery,MRI reveals minimal joint effusion after knee replacement.
+orthopedic_surgery,Patient reports stiffness in spine following laminectomy.
+ophthalmology,Patient reports black spot in center of vision.
+orthopedic_surgery,Good postoperative function noted during movement.
+ophthalmology,OCT shows thinning of retinal nerve fiber layer.
+dermatology,Flaking skin around ears suggests seborrheic dermatitis.
+orthopedic_surgery,Fixation screws intact with no backing out.
+oncology,Patient reports chest pain; lung tumor growth seen.
+orthopedic_surgery,Patient reports pressure sensation in shin region.
+ophthalmology,Posterior synechiae seen in uveitis.
+dermatology,Patient complains of sensitive skin.
+orthopedic_surgery,Mild pain with resisted knee extension.
+orthopedic_surgery,Patient reports tingling around incision area.
+orthopedic_surgery,Slight medial knee pain during ambulation.
+dermatology,Vitiligo spreading to fingers.
+ophthalmology,Patient reports distorted central vision; macular issue suspected.
+dermatology,Mole shows irregular borders; dermoscopy performed.
+orthopedic_surgery,Fracture hardware shows excellent stability.
+ophthalmology,Cataract formation observed in both eyes.
+plastic_surgery,Pt requests lip reduction surgery.
+orthopedic_surgery,Patient feels instability while walking without support.
+dermatology,Patient reports scalp itching with white flakes.
+ophthalmology,Posterior vitreous detachment confirmed.
+oncology,Bone scan positive for metastasis to ribs.
+oncology,Biopsy confirms malignant melanoma.
+oncology,Patient reports abdominal mass; CT shows large tumor.
+dermatology,Blistering rash noted; bullous pemphigoid suspected.
+orthopedic_surgery,Knee flexion improved to 90 degrees post-rehab.
+plastic_surgery,Patient reports mild facial asymmetry post-trauma.
+ophthalmology,Vitreous opacities causing visual disturbances.
+oncology,Lymph node enlargement persists.
+orthopedic_surgery,Bone graft vascularity appears good.
+oncology,MRI abdomen shows liver metastases.
+ophthalmology,Angle-closure glaucoma suspected due to high pressure.
+oncology,Patient presents with persistent cough; CT suggests possible lung mass.
+oncology,CT chest reveals central lung mass.
+plastic_surgery,Patient reports tightness around neck lift incision.
+dermatology,Flare-up after using new skincare product.
+plastic_surgery,Patient desires jawline contouring with implants.
+oncology,Patient reports chronic cough; bronchoscopy scheduled.
+ophthalmology,Patient reports occasional sharp pain in right eye.
+dermatology,Fungal rash noted under breast fold.
+ophthalmology,Patient complains of eye fatigue.
+dermatology,Patient has itchy scalp unresponsive to OTC shampoo.
+oncology,Patient reports jaundice; pancreatic cancer suspected.
+plastic_surgery,Botox injection performed for forehead wrinkles; no complications.
+ophthalmology,Patient complains of periodic blurry vision while studying.
+plastic_surgery,Patient complains of tight facial skin post-lift.
+plastic_surgery,Tissue expander in place with no leakage.
+oncology,Patient reports weight loss; staging scans ordered.
+orthopedic_surgery,X-ray shows slight bone resorption near implant.
+oncology,Biopsy confirms basal cell carcinoma on cheek.
+ophthalmology,Patient reports difficulty seeing at night.
+ophthalmology,Patient reports dryness not relieved by drops.
+oncology,Biopsy reveals basal cell carcinoma recurrence.
+ophthalmology,Inflamed pinguecula noted on nasal sclera.
+plastic_surgery,Otoplasty performed to correct ear protrusion.
+dermatology,Patient presents with red patches on scalp.
+oncology,Ovarian cystic mass concerning for malignancy.
+ophthalmology,Severe eyelid swelling; blepharitis confirmed.
+orthopedic_surgery,Patient achieving 110 degrees of knee flexion.
+ophthalmology,Patient complains of gritty sensation.
+orthopedic_surgery,X-ray shows intact fracture fixation with early callus.
+ophthalmology,Floaters stable compared to last visit.
+ophthalmology,Optic nerve swelling seen; papilledema likely.
+plastic_surgery,Post-burn contracture release performed successfully.
+oncology,Breast lump firm and fixed; suspicious for malignancy.
+plastic_surgery,Fat necrosis noted in right breast reconstruction.
+ophthalmology,Patient reports eye shaking sensation; nystagmus suspected.
+orthopedic_surgery,Prosthetic joint infection ruled out; labs normal.
+orthopedic_surgery,Prosthetic shoulder joint shows smooth articulation.
+plastic_surgery,Follow-up liposuction requested for residual fat.
+oncology,Patient reports swollen neck node; biopsy positive for lymphoma.
+dermatology,Patient reports increased hair loss over past two months.
+plastic_surgery,Botox treatment repeated for masseter hypertrophy.
+orthopedic_surgery,Hardware removal planned due to pain over plate.
+ophthalmology,Patient reports pressure sensation behind eyes.
+plastic_surgery,Patient desires augmentation of small chin profile.
+dermatology,Patient complains of persistent dryness unresponsive to moisturizers.
+ophthalmology,Blepharospasm causing uncontrolled blinking.
+ophthalmology,Patient complains of poor night vision.
+plastic_surgery,Skin graft applied to forearm shows healthy vascularization.
+orthopedic_surgery,Suture removal completed; healing on track.
+plastic_surgery,Severe swelling noted after autologous fat transfer.
+orthopedic_surgery,Bone cement fixation appears adequate.
+oncology,Bone biopsy confirms metastatic involvement.
+ophthalmology,Patient reports watery discharge.
+orthopedic_surgery,Patient reports discomfort around screw insertion site.
+oncology,CT shows improved condition after therapy.
+ophthalmology,Retinal detachment repaired; follow-up stable.
+ophthalmology,Patient complains of double vision when reading.
+plastic_surgery,Patient desires rhinoplasty after trauma.
+plastic_surgery,Patient dissatisfied with nose width; revision discussed.
+dermatology,Rash with raised borders noted on forearm; possible ringworm.
+plastic_surgery,Scar revision recommended due to hypertrophic scarring on chest.
+dermatology,Small vesicles on hands; dyshidrotic eczema.
+dermatology,Patient complains of redness after shaving.
+plastic_surgery,Patient wants revision for prominent nasal tip.
+oncology,Pancreatic head mass causes bile duct obstruction.
+oncology,Biopsy confirms endometrial carcinoma.
+orthopedic_surgery,Hardware shows no evidence of corrosion.
+ophthalmology,Allergic swelling around eyelids.
+dermatology,Chronic hives persisting >6 weeks.
+orthopedic_surgery,Patient unable to fully extend elbow after fixation.
+oncology,Patient reports fatigue after radiation therapy.
+orthopedic_surgery,CT reveals proper integration of fibular graft.
+plastic_surgery,Scar tissue softened after silicone therapy.
+dermatology,Small cyst observed on cheek.
+orthopedic_surgery,Complains of thigh muscle tightness after therapy.
+ophthalmology,Patient reports eye redness after swimming.
+orthopedic_surgery,Patient reports calf tenderness; DVT ruled out.
+orthopedic_surgery,CT reveals well-integrated bone graft in tibial defect.
+plastic_surgery,Scar revision considered due to cosmetic concerns.
+orthopedic_surgery,Complains of soreness during knee flexion therapy.
+plastic_surgery,Pt requests removal of silicone implants due to discomfort.
+oncology,Patient reports chest tightness; tumor compressing airway.
+oncology,Liver function worsens; hepatic tumor progression suspected.
+dermatology,Fungal infection suspected between toes; antifungal cream prescribed.
+ophthalmology,Patient experiencing glare while driving at night.
+plastic_surgery,Pt dissatisfied with lip projection.
+dermatology,Hyperkeratosis observed on elbows.
+plastic_surgery,Post-liposuction pain mild and manageable.
+ophthalmology,Corneal scarring from previous injury visible.
+orthopedic_surgery,Persistent pain in wrist after ORIF procedure.
+dermatology,Multiple benign freckles seen on shoulders.
+orthopedic_surgery,Patient reports difficulty climbing stairs after joint replacement.
+orthopedic_surgery,Pain mild during hip abduction exercises.
+orthopedic_surgery,Slight valgus alignment observed in knee replacement.
+plastic_surgery,Seroma aspirated from abdominal donor site.
+orthopedic_surgery,Bone graft donor site healing well.
+oncology,MRI shows infiltrative breast lesion.
+oncology,PSA elevated; prostate biopsy scheduled.
+orthopedic_surgery,Tibial component of knee prosthesis stable without loosening.
+ophthalmology,Lens opacity increased since last visit.
+dermatology,Actinic keratosis noted on forehead; cryotherapy planned.
+orthopedic_surgery,Fracture line barely visible; healing progressing well.
+plastic_surgery,Skin flap reconstructed with rotational technique.
+orthopedic_surgery,Patient reports dull ache around hip during sleep.
+ophthalmology,Patient reports foreign body hit eye during work.
+plastic_surgery,Incision site showing signs of minor infection.
+oncology,CT brain identifies enhancing tumor in parietal lobe.
+plastic_surgery,Face-lift sutures intact and clean.
+plastic_surgery,Patient interested in correcting prominent ears.
+plastic_surgery,Dermabrasion performed for acne scarring.
+orthopedic_surgery,Hardware intact following minor fall.
+ophthalmology,Peripheral vision loss noted; glaucoma suspected.
+oncology,Thyroid cancer recurrence suspected on imaging.
+oncology,Patient reports ongoing fatigue post-chemotherapy.
+plastic_surgery,Graft showing signs of excellent perfusion.
+dermatology,Small fluid-filled bumps on fingers.
+plastic_surgery,Patient complains of irritation at dermal filler injection site.
+orthopedic_surgery,Patient reports improved shoulder range of motion.
+orthopedic_surgery,MRI confirms mild inflammation in knee joint.
+dermatology,Seborrheic dermatitis causing flaky scalp patches.
+plastic_surgery,Patient requests correction of saddle nose.
+dermatology,Rough skin texture due to dryness.
+ophthalmology,Signs of orbital cellulitis present; urgent care needed.
+plastic_surgery,Post-facelift bruising observed along jawline.
+dermatology,Patient presents with recurrent boils.
+plastic_surgery,Bleeding controlled during facelift procedure.
+oncology,Spinal MRI shows epidural tumor compression.
+oncology,CA-125 elevated; ovarian malignancy likely.
+plastic_surgery,Patient reports tight sensation around jaw.
+oncology,Liver tumor showing response to therapy.
+orthopedic_surgery,Prosthetic hip shows normal articulation on imaging.
+plastic_surgery,Post-op swelling around cheek implants.
+orthopedic_surgery,No signs of periprosthetic fracture detected.
+oncology,CT finds mass compressing inferior vena cava.
+oncology,CT pelvis reveals ovarian tumor growth.
+plastic_surgery,Patient complains of numbness in reconstructed fingertip.
+oncology,CT abdomen shows multiple hepatic lesions suspicious for metastasis.
+plastic_surgery,Patient reports tenderness around scar tissue.
+oncology,CT finds pulmonary embolism along with tumor.
+plastic_surgery,Patient desires breast lift after weight loss.
+ophthalmology,Episcleritis causing mild redness and pain.
+ophthalmology,Corneal thinning noted on pachymetry.
+orthopedic_surgery,Femoral stem securely seated with no radiolucent lines.
+oncology,Patient reports persistent cough; lung mass enlarging.
+ophthalmology,Severe allergic conjunctivitis with swelling.
+plastic_surgery,Patient desires correction of deviated septum for aesthetic reasons.
+dermatology,Acne scars visible on temples.
+dermatology,Patient complains of persistent dandruff.
+oncology,Patient reports severe fatigue; anemia due to malignancy.
+orthopedic_surgery,Mild redness around incision; no drainage noted.
+orthopedic_surgery,Complains of clicking sensation while walking after knee replacement.
+plastic_surgery,Dermal filler correction for volume loss in temples.
+plastic_surgery,Laser hair removal performed on abdominal region.
+plastic_surgery,Patient reports minor bleeding from surgical site.
+oncology,Biopsy reveals renal cell carcinoma.
+oncology,Patient reports unexplained weight loss over past month.
+ophthalmology,Patient reports pain when moving eyes.
+dermatology,Patient reports pigmentation after insect bite.
+dermatology,"Patient complains of small, painful lump on back; sebaceous cyst."
+oncology,PET scan shows reduced uptake; good treatment response.
+dermatology,Pustules forming on scalp; folliculitis decalvans.
+plastic_surgery,Post-burn skin contracture managed surgically.
+ophthalmology,Retinal thinning associated with high myopia.
+oncology,PET scan shows no activity; remission likely.
+plastic_surgery,Complains of contour irregularity after liposuction.
+oncology,Patient presents with persistent rectal bleeding.
+plastic_surgery,Patient requests fuller nasal tip.
+dermatology,Mild swelling under eyes; dermatitis.
+dermatology,Multiple warts observed on right index finger.
+dermatology,Severe dryness causing fissures on knuckles.
+plastic_surgery,Pt reports lumpiness after fat grafting to hip.
+plastic_surgery,Pt reports dissatisfaction with nasal bridge height.
+oncology,Patient reports urinary obstruction; bladder tumor growing.
+oncology,Liver MRI shows hemangioma; benign appearance.
+plastic_surgery,Ear reconstruction post-trauma healing well.
+ophthalmology,Fundus reveals enlarged cup-to-disc ratio.
+ophthalmology,Floaters increased; retinal detachment risk discussed.
+orthopedic_surgery,Patient reports improved mobility after physiotherapy.
+orthopedic_surgery,Patient has limited ankle dorsiflexion post-surgery.
+orthopedic_surgery,Pain level decreased significantly post-therapy.
+ophthalmology,Cupping of optic disc increased; glaucoma progression.
+dermatology,Large wart on foot causing pain.
+oncology,Breast tumor size reduced after chemotherapy.
+dermatology,Ingrown hair causing inflammation on leg.
+ophthalmology,Retinal pigmentation abnormal; dystrophy suspected.
+dermatology,Rash worsens after sweating.
+oncology,Patient reports difficulty swallowing; esophageal mass visualized.
+oncology,Ovary enlarged with solid components; malignancy likely.
+orthopedic_surgery,Persistent stiffness noted in upper arm.
+dermatology,Small pustules on chest.
+ophthalmology,Macular hole observed on exam.
+orthopedic_surgery,Patient shows good progress in shoulder strengthening exercises.
+ophthalmology,Retinal drusen visible; AMD early stage.
+orthopedic_surgery,Joint line tenderness present on exam.
+ophthalmology,Optic neuritis suspected due to sudden vision loss.
+dermatology,Keratosis pilaris on upper arms noted.
+dermatology,Skin lesion shows pearly appearance; basal cell carcinoma possible.
+orthopedic_surgery,Hardware remains intact with no screw loosening.
+oncology,Biopsy confirms invasive ductal carcinoma of the breast.
+ophthalmology,Conjunctival papillae present; allergic cause.
+plastic_surgery,Keloid on chest injected with steroids.
+ophthalmology,Hemorrhage near optic disc area.
+ophthalmology,Retinal exudates visible on fundus exam.
+oncology,Patient reports back pain; spinal metastasis confirmed.
+oncology,Multiple pulmonary nodules found on CT.
+ophthalmology,Floaters increasing; vitreous degeneration suspected.
+orthopedic_surgery,Patient complains of grinding sensation in hip joint.
+oncology,Biopsy reveals benign fibroadenoma.
+plastic_surgery,Patient complains of asymmetry after lip filler.
+orthopedic_surgery,Patient feels discomfort while descending stairs.
+orthopedic_surgery,Patient unable to fully rotate shoulder post-arthroscopy.
+plastic_surgery,Patient reports minor drainage from incision.
+plastic_surgery,Patient reports persistent swelling after graft.
+orthopedic_surgery,Patient experiences stiffness in ankle after fusion surgery.
+plastic_surgery,Wound dehiscence noted along incision line.
+plastic_surgery,Patient desires fuller cheek contour.
+orthopedic_surgery,Swelling decreasing steadily after shoulder arthroplasty.
+dermatology,Seborrheic dermatitis causing greasy scales.
+oncology,Patient reports abdominal fullness; splenic tumor suspected.
+orthopedic_surgery,Spinal hardware alignment remains stable.
+dermatology,Skin lesion biopsy performed for discoloration.
+plastic_surgery,Patient unhappy with chin projection; considering genioplasty.
+plastic_surgery,Chemical peel performed for pigmentation issues.
+plastic_surgery,Abdominoplasty scar hypertrophy noted.
+ophthalmology,Dry eye syndrome confirmed after tear test.
+oncology,Patient experiences neuropathy following chemotherapy.
+dermatology,Sunburn with peeling on shoulders.
+dermatology,Basal cell carcinoma suspected on nose; biopsy scheduled.
+ophthalmology,Fundus exam shows retinal hemorrhages.
+dermatology,Pustular eruptions noted on back after gym workout.
+dermatology,Skin dryness severe; atopic dermatitis suspected.
+ophthalmology,Patient reports burning sensation; dry eye worsened.
+dermatology,Patient complains of severe sun allergy symptoms.
+dermatology,Excessive oiliness leading to closed comedones.
+ophthalmology,Shallow anterior chamber; angle closure risk.
+dermatology,Eczema worsening after discontinuing steroid cream.
+oncology,MRI spine identifies metastatic lesions.
+plastic_surgery,Patient reports itching around implant area.
+orthopedic_surgery,Bone healing sufficient to begin advanced rehab.
+ophthalmology,Patient has difficulty keeping eyes open in bright light.
+orthopedic_surgery,Patient walking with assistance on postoperative day three.
+orthopedic_surgery,Patient reports thigh pain after femoral nail insertion.
+dermatology,Patient complains of itchy scalp due to lice infestation.
+orthopedic_surgery,Patient progressing to full weight-bearing.
+orthopedic_surgery,Patient recovering well after clavicle fixation.
+orthopedic_surgery,CT indicates partial healing of femoral fracture.
+ophthalmology,Patient reports persistent eye burning sensation.
+oncology,Patient reports bone pain; bone scan shows osteolytic lesions.
+plastic_surgery,Complains of tightness around abdominal incision after tummy tuck.
+ophthalmology,Eyelid inflammation suggests meibomian gland dysfunction.
+plastic_surgery,Graft viability excellent on postoperative day three.
+ophthalmology,Inflammation in anterior chamber; iritis suspected.
+dermatology,Patient presents with dark under-eye circles.
+dermatology,Patient shows swelling due to allergic reaction.
+oncology,Patient reports new lump under arm; biopsy planned.
+orthopedic_surgery,Gait improving but still antalgic.
+oncology,PET scan indicates metastatic spread to bones.
+ophthalmology,Fundus exam reveals cotton wool spots.
+dermatology,Cystic acne present on jawline; oral antibiotics advised.
+plastic_surgery,Patient reports mild asymmetry after jaw surgery.
+dermatology,Ulcer on lower leg showing slow healing; vascular exam needed.
+orthopedic_surgery,Complains of numbness in leg after lumbar surgery.
+orthopedic_surgery,Bone graft donor site healing slowly.
+ophthalmology,Corneal infiltrates observed.
+ophthalmology,Patient reports eye swelling after insect bite.
+oncology,Skin lesion with irregular borders; melanoma biopsy ordered.
+orthopedic_surgery,Hip abductor strength improving gradually.
+ophthalmology,Intraocular pressure elevated; glaucoma suspected.
+plastic_surgery,Skin graft fully attached with good capillary refill.
+dermatology,Skin bruise observed on arm after minor trauma.
+ophthalmology,Signs of optic nerve inflammation observed.
+plastic_surgery,Calf implants stable with no tenderness.
+oncology,PET scan shows improvement post-radiation.
+ophthalmology,Retinal vessel narrowing observed.
+ophthalmology,Patient complains of stabbing eye pain intermittently.
+ophthalmology,Eye exam shows mild hyperopia.
+plastic_surgery,Post-op bruising improving gradually.
+oncology,Thyroid ultrasound reveals solid hypoechoic nodule.
+plastic_surgery,Filler asymmetry corrected with hyaluronidase.
+plastic_surgery,Patient complains of uneven skin texture.
+oncology,Thyroid nodule FNA reveals papillary carcinoma.
+ophthalmology,Patient reports whites of eyes turning red frequently.
+ophthalmology,Patient reports shadows in peripheral vision.
+plastic_surgery,Patient reports nasal obstruction following previous rhinoplasty.
+oncology,CT abdomen shows stable pancreatic mass.
+orthopedic_surgery,Patient has limited shoulder rotation after surgery.
+oncology,Brain MRI shows post-treatment stability.
+oncology,Ovarian tumor markers elevated.
+ophthalmology,Patient reports downward drifting of one eye occasionally.
+oncology,Patient has elevated CEA; colon cancer relapse possible.
+plastic_surgery,Breast implant exchange scheduled.
+ophthalmology,Subconjunctival hemorrhage visible; no pain reported.
+oncology,CT chest reveals solitary pulmonary nodule.
+dermatology,Red papules seen on forehead.
+ophthalmology,Dry eye worsened by air conditioning.
+orthopedic_surgery,Spinal fusion hardware stable with no migration.
+dermatology,Crusted lesions on scalp; seborrhea suspected.
+plastic_surgery,Skin graft edema resolving gradually.
+dermatology,"Patient presents with red, itchy patches consistent with eczema flare."
+orthopedic_surgery,Patient reports nighttime joint pain.
+oncology,Lymph node biopsy confirms Hodgkin lymphoma.
+dermatology,Mild dermatitis flare triggered by pollen.
+ophthalmology,Subtle cataract progression noted.
+dermatology,Vesicles noted on lips; cold sore flare.
+orthopedic_surgery,Patient reports persistent knee stiffness after total knee replacement.
+orthopedic_surgery,Post-op swelling noted around knee incision; no signs of infection.
+plastic_surgery,Graft rejection unlikely; tissue healthy.
+orthopedic_surgery,Patient reports locking sensation in knee joint.
+ophthalmology,Peripheral retinal thinning noted.
+ophthalmology,Viral conjunctivitis suspected due to clear discharge.
+oncology,Biopsy confirms malignant lymphoma.
+oncology,Patient reports night sweats and fever; lymphoma workup started.
+plastic_surgery,Fillers injected around nasolabial fold.
+plastic_surgery,Dermal fillers injected to correct under-eye hollowness.
+dermatology,Eczema flare around eyelids.
+orthopedic_surgery,Graft hypertrophy suspected; MRI scheduled.
+plastic_surgery,Thigh flap used for facial reconstruction healing well.
+orthopedic_surgery,Limited hip external rotation observed.
+oncology,PET scan indicates remission.
+dermatology,Dry scalp causing persistent dandruff.
+oncology,Patient reports recurrent fevers; leukemia considered.
+ophthalmology,Patient has difficulty focusing on near objects; presbyopia.
+ophthalmology,Visual field test indicates loss in upper quadrant.
+orthopedic_surgery,ACL reconstruction graft integrity confirmed.
+orthopedic_surgery,CT scan shows excellent prosthetic integration.
+oncology,Patient reports severe nausea post-chemotherapy.
+plastic_surgery,Pt satisfied with facelift results.
+plastic_surgery,Skin bruise resolving; no hematoma.
+dermatology,"Dry, scaly lesions on feet."
+oncology,Liver biopsy confirms metastatic adenocarcinoma.
+ophthalmology,OCT confirms central serous retinopathy.
+dermatology,Patient reports red bumps after shaving; folliculitis.
+dermatology,Flat wart noted on chin.
+orthopedic_surgery,Patient achieving functional milestones in physiotherapy.
+oncology,Patient reports dizziness; brain metastasis suspected.
+orthopedic_surgery,Lumbar fusion showing early consolidation.
+orthopedic_surgery,Patient unable to fully extend knee post-surgery.
+orthopedic_surgery,CT shows adequate bone ingrowth into prosthesis.
+oncology,Patient reports persistent itching; lymphoma symptom.
+plastic_surgery,Asymmetric breast implant noted; correction planned.
+dermatology,Cluster of vesicles noted; herpes zoster suspected.
+plastic_surgery,Abdominal scar lightened with laser therapy.
+dermatology,Skin tags removed from neck area; no complications.
+orthopedic_surgery,Bone graft shows early signs of consolidation.
+plastic_surgery,Keloid formation noted on ear lobe post-piercing repair.
+ophthalmology,Corneal ulcer noted in left eye.
+oncology,Colonoscopic biopsy confirms adenocarcinoma.
+orthopedic_surgery,Patient has difficulty bearing weight following hip arthroplasty.
+orthopedic_surgery,Patient reports groin pain during hip rotation.
+oncology,PET scan shows persistent metabolic activity.
+plastic_surgery,Fat grafting performed for facial volume restoration.
+ophthalmology,Patient reports black curtain-like vision; emergency suspected.
+orthopedic_surgery,Mild soft-tissue swelling observed around surgical area.
+plastic_surgery,Laser therapy performed for acne scars on cheek.
+oncology,Biopsy confirms Merkel cell carcinoma.
+ophthalmology,Vision cloudy due to mature cataract.
+plastic_surgery,Patient desires lip enhancement for volume loss.
+oncology,PET scan shows increased uptake in mediastinal nodes.
+ophthalmology,Patient has double vision when tired.
+ophthalmology,Lens dislocation seen after trauma.
+oncology,Patient reports persistent back pain; vertebral lesion found.
+dermatology,Peeling skin observed after chemical peel treatment.
+ophthalmology,Retinal edema visible on OCT.
+dermatology,Skin atrophy due to long-term steroid use.
+ophthalmology,Redness and itching noted; allergic conjunctivitis likely.
+plastic_surgery,Chin reduction surgery discussed.
+dermatology,Red bumps on legs after waxing; folliculitis.
+orthopedic_surgery,Bone density scan shows mild osteoporosis.
+ophthalmology,Patient reports sudden severe eye pain; emergency referral.
+plastic_surgery,Laser redness reduction performed on cheeks.
+dermatology,Painful acne cyst on chin.
+ophthalmology,Severe photophobia present; uveitis suspected.
+orthopedic_surgery,Bone graft integration appears satisfactory.
+orthopedic_surgery,Hip dislocation risk low; joint stable.
+plastic_surgery,Flap necrosis suspected; debridement planned.
+dermatology,Psoriatic plaques thick and silvery; treatment adjusted.
+ophthalmology,Patient reports pressure relief after drops.
+ophthalmology,Patient reports eyelash crusting in morning.
+plastic_surgery,Skin flap appears well-perfused with no necrosis.
+dermatology,Patient reports flaky eyebrows due to dermatitis.
+orthopedic_surgery,Fracture fixation plate well-positioned on follow-up X-ray.
+ophthalmology,Corneal ulcer healing well with treatment.
+oncology,CT reveals retroperitoneal mass.
+dermatology,Patient reports burning rash after topical ointment.
+oncology,Bone pain reported; metastasis suspected.
+ophthalmology,Early cataract changes seen on slit-lamp exam.
+plastic_surgery,Liposuction performed around flanks.
+oncology,PET scan indicates residual disease in lymph nodes.
+orthopedic_surgery,Bone graft contour appears satisfactory.
+plastic_surgery,Breast lift results satisfactory; healing on track.
+ophthalmology,Mild strabismus observed during eye movement test.
+ophthalmology,Scleral thinning visible.
+dermatology,Patient presents with itchy palms and soles.
+dermatology,Patient complains of forehead acne.
+dermatology,Small cherry angiomas observed on chest.
+dermatology,Skin abscess present on forearm; drainage performed.
+oncology,Bone scan shows diffuse metastasis.
+dermatology,Skin discoloration present after healing of acne lesions.
+plastic_surgery,Patient desires reduction in nasal dorsal hump.
+oncology,PET scan negative for new disease.
+plastic_surgery,Swelling reduced significantly after blepharoplasty.
+oncology,MRI pelvis reveals cervical tumor enlargement.
+oncology,Leukocytosis with blasts; leukemia suspected.
+ophthalmology,Patient reports halos around lights at night.
+plastic_surgery,Rhinoplasty follow-up shows improved airway function.
+plastic_surgery,Nose tip cartilage irregularity noted.
+oncology,CT neck shows large cervical mass.
+oncology,Breast MRI shows suspicious enhancement.
+plastic_surgery,Complains of numbness around lip after cleft repair surgery.
+oncology,Patient reports blood in urine; bladder mass detected.
+dermatology,Ring-shaped lesion on thigh; tinea corporis likely.
+orthopedic_surgery,Patient undergoing physiotherapy for limited hip mobility.
+dermatology,Rough patch on skin; actinic keratosis.
+orthopedic_surgery,Prosthetic hip rotation smooth on exam.
+oncology,Soft-tissue mass found in thigh; MRI ordered.
+ophthalmology,Patient reports eyestrain after prolonged reading.
+plastic_surgery,Patient desires brow lift for hooded eyelids.
+ophthalmology,Patient has intermittent diplopia.
+dermatology,Multiple moles checked; no suspicious changes seen.
+ophthalmology,Eyelid redness and scaling; blepharitis.
+plastic_surgery,Ptosis repair shows improved eyelid symmetry.
+dermatology,Patient reports persistent skin peeling.
+ophthalmology,Patient reports sensation of something stuck in eye.
+orthopedic_surgery,Imaging confirms stable anterior tibial plate.
+plastic_surgery,Breast asymmetry improved after reduction mammoplasty.
+orthopedic_surgery,Weight-bearing as tolerated encouraged.
+ophthalmology,Patient reports foggy vision after waking.
+plastic_surgery,Nasal septum alignment improved post-surgery.
+ophthalmology,Corneal abrasion noted after accidental trauma.
+ophthalmology,Severe myopia causing distant vision problems.
+oncology,Breast lesion stable after radiation.
+orthopedic_surgery,Complains of discomfort near bone graft donor site.
+dermatology,Complains of burning sensation after sun exposure; sunburn evident.
+orthopedic_surgery,CT shows partial collapse of bone graft; revision required.
+orthopedic_surgery,Femoral implant seated properly; no migration.
+oncology,CT reveals peritoneal carcinomatosis.
+ophthalmology,Pterygium growth approaching cornea.
+oncology,Biopsy confirms squamous cell carcinoma of skin.
+plastic_surgery,Scar hypertrophy managed with steroid injections.
+oncology,CT chest reveals recurrent lung tumor.
+ophthalmology,Patient has difficulty distinguishing colors.
+oncology,Breast biopsy reveals ductal carcinoma in situ.
+oncology,Skin biopsy confirms early melanoma.
+oncology,Patient reports coughing blood; urgent CT ordered.
+oncology,Low-dose CT indicates early-stage lung cancer.
+dermatology,Patient reports constant itching behind knees.
+oncology,PET scan confirms nodal involvement.
+oncology,Gastric biopsy confirms adenocarcinoma.
+oncology,CT chest shows pleural effusion; malignancy suspected.
+plastic_surgery,Laser therapy recommended for scar lightening.
+oncology,Biopsy reveals squamous cell carcinoma of tongue.
+dermatology,Patient reports excessive sweating on palms (hyperhidrosis).
+ophthalmology,Patient complains of constant watery eyes.
+orthopedic_surgery,Patient unable to squat due to stiffness.
+dermatology,Contact dermatitis caused by new detergent.
+ophthalmology,Conjunctival redness with purulent discharge; bacterial conjunctivitis.
+orthopedic_surgery,Complains of pain around femoral implant site.
+ophthalmology,Keratoconus indicated by corneal topography.
+dermatology,Large blister on heel from friction.
+orthopedic_surgery,X-ray shows complete healing of radius fracture.
+orthopedic_surgery,Bone scan suggests increased metabolic activity near implant.
+oncology,Patient presents with persistent nausea; gastric mass detected.
+dermatology,Patient reports chronic facial redness.
+ophthalmology,Patient complains of severe eye dryness and irritation.
+dermatology,Painful cracked corners of mouth; angular cheilitis.
+dermatology,Patient shows peeling skin between toes.
+dermatology,"Patient has red, scaly patch on ankle."
+plastic_surgery,Tummy tuck results stable; patient satisfied.
+ophthalmology,Patient complains of transient blurry vision.
+dermatology,Hyperpigmented patch on cheek; melasma suspected.
+plastic_surgery,Post-burn face graft showing healthy integration.
+orthopedic_surgery,Bone graft site tender to palpation.
+orthopedic_surgery,Prosthetic knee shows mild wear pattern.
+plastic_surgery,Skin graft 80% adhered; re-evaluation tomorrow.
+plastic_surgery,Laser resurfacing performed for perioral wrinkles.
+ophthalmology,Eye exam shows early signs of diabetic retinopathy.
+orthopedic_surgery,Fracture union confirmed on radiographs.
+oncology,CT detects small renal mass incidentally.
+ophthalmology,Severe corneal edema present.
+oncology,Bone marrow biopsy consistent with multiple myeloma.
+dermatology,Scaly patch on scalp; possible ringworm.
+plastic_surgery,Asymmetry noted in breast implants; revision planned.
+oncology,Patient reports abdominal bloating; ovarian tumor suspected.
+plastic_surgery,Slight asymmetry seen after jaw reconstruction.
+orthopedic_surgery,Patient reports discomfort after prolonged walking.
+ophthalmology,Chorioretinitis signs present on exam.
+ophthalmology,Choroidal nevus noted; monitored for changes.
+dermatology,Skin cracking on fingers due to dryness.
+dermatology,Thickened nail suggests fungal nail infection.
+oncology,Enlarged lymph nodes noted on PET scan; lymphoma suspected.
+ophthalmology,Eye redness accompanied by mild fever; viral etiology likely.
+ophthalmology,Patient reports headaches with blurred vision.
+orthopedic_surgery,Patient reports sharp pain during knee flexion.
+ophthalmology,Patient reports blurred vision in the right eye for 2 weeks.
+dermatology,Skin redness around nose.
+oncology,Colonoscopy identifies polyp with high-grade dysplasia.
+dermatology,Cherry angioma noted on abdomen; benign appearance.
+plastic_surgery,Filler injected into chin for balance.
+plastic_surgery,Rhinoplasty patient reports improved breathing.
+dermatology,Red nodules on shins; erythema nodosum.
+oncology,Bone marrow infiltration seen on biopsy.
+dermatology,Persistent itchy rash on lower legs.
+orthopedic_surgery,Bone healing delayed; vitamin D supplementation recommended.
+dermatology,Dark brown mole observed; biopsy recommended to rule out melanoma.
+orthopedic_surgery,MRI shows mild inflammation around joint implant.
+ophthalmology,Severe conjunctival swelling noted.
+plastic_surgery,Breast augmentation revision planned.
+oncology,Patient reports chronic pelvic pain; pelvic mass seen.
+plastic_surgery,Neck lift results satisfactory with minimal swelling.
+oncology,CT chest shows persistent pleural-based lesion.
+ophthalmology,Retina appears pale; central artery occlusion likely.
+ophthalmology,Macular edema secondary to diabetes.
+ophthalmology,Patient complains of recurring blurry vision at night.
+orthopedic_surgery,Prosthesis shows no signs of wear on imaging.
+plastic_surgery,Dermal filler dissolution performed.
+ophthalmology,Foreign body sensation in left eye; no object found.
+ophthalmology,Corneal dystrophy patterns observed.
+orthopedic_surgery,Patient ambulating without assistive devices.
+ophthalmology,Glare sensitivity due to early cataracts.
+orthopedic_surgery,Gait training continued to improve hip strength.
+oncology,Patient reports difficulty breathing; mediastinal mass noted.
+plastic_surgery,Patient reports sensation loss near incision.
+orthopedic_surgery,Patient experiencing difficulty sitting for long periods.
+dermatology,Raised red patch; granuloma annulare suspected.
+dermatology,Dry red patches on legs after heat exposure.
+oncology,Pancreatic cancer progression noted on CT.
+ophthalmology,Patient has difficulty reading fine print.
+oncology,Patient reports bone fractures from minimal trauma; metastasis possible.
+dermatology,Seborrheic keratosis noted on chest.
+oncology,Patient reports trouble urinating; prostate mass enlarged.
+dermatology,Blisters forming after chemical exposure.
+orthopedic_surgery,Patient reports pain-free walking at two-week follow-up.
+oncology,Patient reports difficulty swallowing; throat tumor noted.
+dermatology,Scalp psoriasis causing thick scaling.
+ophthalmology,Patient reports trouble tracking moving objects.
+oncology,Patient reports chronic hoarseness; laryngeal mass detected.
+orthopedic_surgery,Patient reports sensation of instability in knee.
+dermatology,Thickened skin on feet suggests chronic tinea pedis.
+plastic_surgery,Post-traumatic nasal deformity corrected.
+ophthalmology,Patient reports distorted lines when reading.
+oncology,Hypercalcemia noted; possible bone metastases.
+orthopedic_surgery,Thoracic spine hardware well-positioned on imaging.
+ophthalmology,Chronic redness due to rosacea-related eye disease.
+oncology,Multiple enlarged lymph nodes found on imaging.
+orthopedic_surgery,Pain persists in left shoulder following rotator cuff repair.
+orthopedic_surgery,Patient walking independently with cane.
+oncology,Biopsy confirms glioblastoma multiforme.
+orthopedic_surgery,MRI confirms intact rotator cuff repair.
+ophthalmology,Patient reports eyelid drooping worsening in evening.
+ophthalmology,Retinal vein occlusion suspected.
+orthopedic_surgery,Patient progressing with walker during physiotherapy.
+orthopedic_surgery,Patient unable to sit cross-legged due to stiffness.
+ophthalmology,Severe dry eye with filamentary keratitis.
+oncology,PET scan shows widespread metastasis.
+oncology,Mammogram shows spiculated mass at 2 o'clock position.
+dermatology,Patient shows signs of rosacea with facial redness.
+orthopedic_surgery,Prosthetic knee alignment optimal on AP view.
+dermatology,Patient presents with cracked lips and redness.
+oncology,MRI shows tumor encasing spinal cord.
+oncology,Skin exam reveals suspicious new lesion.
+oncology,Splenic enlargement concerning for hematologic malignancy.
+oncology,Patient reports persistent abdominal cramping; colon mass found.
+oncology,Elevated AFP suggests liver malignancy.
+dermatology,Painful skin erosion noted on shin.
+dermatology,Patient presents with itchy neck rash.
+plastic_surgery,Before/after photos show improvement in chin profile.
+ophthalmology,Corneal graft remains clear post-surgery.
+ophthalmology,Retinal detachment confirmed on fundoscopy.
+dermatology,Skin redness worsened by spicy foods; rosacea trigger.
+plastic_surgery,Post-op infection absent; incision lines clean and dry.
+dermatology,Skin dryness leading to eczema patches on arms.
+ophthalmology,Eye pressure normal after medication adjustment.
+oncology,PET scan shows hypermetabolic liver lesions.
+oncology,Patient reports persistent headaches; brain MRI abnormal.
+oncology,PET scan identifies recurrence in liver.
+plastic_surgery,Post-op seroma drained under ultrasound guidance.
+dermatology,Patient reports white flaking around beard area.
+ophthalmology,Patient complains of sandy feeling in eyes.
+dermatology,Nail pitting observed; possible psoriasis.
+dermatology,Psoriatic plaques noted on elbows with mild scaling.
+dermatology,Skin peeling after sunburn noted.
+oncology,Brain MRI shows stable postoperative changes.
+ophthalmology,Vitreous hemorrhage noted on ultrasound.
+orthopedic_surgery,Slight numbness persists along lateral thigh.
+orthopedic_surgery,Patient reports occasional clicking in shoulder joint.
+oncology,PET scan shows uptake in colorectal region.
+ophthalmology,Patient reports flashes worsening at night.
+plastic_surgery,Liposuction sites healing well with minimal bruising.
+oncology,CT brain shows edema around tumor.
+oncology,Patient complains of severe fatigue; CBC shows anemia.
+dermatology,Crusting around nostrils due to impetigo.
+plastic_surgery,Pt complains of filler migration in upper lip.
+dermatology,Lichen planus lesions on wrists.
+orthopedic_surgery,Patient reports stiffness after prolonged rest.
+dermatology,Patient complains of persistent rash around mouth.
+plastic_surgery,Pt reports sagging skin; counseled for facelift.
+plastic_surgery,Microneedling session performed for fine lines.
+ophthalmology,Small chalazion found on upper eyelid.
+plastic_surgery,Laser therapy performed for dark spots.
+plastic_surgery,Minimal seroma noted under abdominal flap.
+oncology,CT abdomen reveals pancreatic tail mass.
+ophthalmology,Severe itching due to allergic conjunctivitis.
+dermatology,Patient reports itchiness after using new cosmetic product.
+orthopedic_surgery,Mild hip stiffness persists on postoperative day five.
+ophthalmology,Fundus exam reveals neovascularization.
+orthopedic_surgery,Minimal muscle atrophy noted around operated limb.
+orthopedic_surgery,Implant alignment within acceptable limits.
+dermatology,Psoriasis flare after infection.
+dermatology,Rosacea causing visible blood vessels on cheeks.
+plastic_surgery,Nasal shape shows desired refinement.
+plastic_surgery,Zygomatic implant placed with no complications.
+dermatology,Hives present on arms; antihistamines recommended.
+oncology,Breast MRI reveals multicentric disease.
+plastic_surgery,Nasal valve collapse corrected surgically.
+oncology,CT finds multiple bone lesions.
+dermatology,Patient reports skin sensitivity after using retinoids.
+plastic_surgery,Grafted skin shows partial loss at edges.
+plastic_surgery,Sutures removed from eyelid surgery; mild edema persists.
+ophthalmology,Patient reports sudden flashes of light; retinal tear suspected.
+plastic_surgery,Donor site healing appropriately after skin graft harvest.
+dermatology,Patient presents with widespread urticaria.
+orthopedic_surgery,Fracture healed with slight angulation; functional outcome good.
+ophthalmology,Patient has persistent eyelid twitching.
+ophthalmology,Photophobia severe in bright environments.
+plastic_surgery,Chin implant shows stable positioning on CT.
+orthopedic_surgery,Patient reports weakness during hip abduction exercises.
+ophthalmology,Patient reports light sensitivity indoors.
+ophthalmology,Optic disc pallor observed.
+dermatology,Complains of severe itching due to contact dermatitis.
+orthopedic_surgery,Patient reports mild swelling after exercise.
+oncology,MRI brain shows no acute tumor growth.
+ophthalmology,Patient has difficulty focusing transitioning from near to far.
+ophthalmology,Patient complains of frequent tearing while outdoors.
+ophthalmology,Patient reports eye pain after prolonged screen use.
+dermatology,Patient has visible white patches on neck.
+orthopedic_surgery,Mild crepitus felt during knee movement.
+dermatology,Patient reports oily skin leading to frequent breakouts.
+plastic_surgery,Ear lobe repair successful with minimal scarring.
+dermatology,Swelling and redness after insect sting.
+orthopedic_surgery,Bone graft appears robust with minimal resorption.
+plastic_surgery,Post-op swelling noted after breast augmentation; no signs of infection.
+oncology,Patient reports persistent vomiting; stomach tumor likely.
+dermatology,Itchy rash on abdomen due to metal allergy.
+plastic_surgery,Graft viability excellent with stable color.
+ophthalmology,Patient reports floaters post-surgery.
+plastic_surgery,Cheek augmentation implant stable with no displacement.
+dermatology,Patient shows signs of dermographism; wheals appear after scratching.
+orthopedic_surgery,Bone regeneration appears slower than expected.
+orthopedic_surgery,Joint mobility stable with no locking episodes.
+orthopedic_surgery,Patient reports increased hip mobility post-rehab.
+plastic_surgery,Radiation-induced facial scarring treated with graft.
+orthopedic_surgery,X-ray confirms intact hardware after fall.
+dermatology,Multiple skin-colored bumps; sebaceous hyperplasia.
+orthopedic_surgery,Surgical staples removed; incision clean and dry.
+ophthalmology,Eye irritation after wearing contact lenses too long.
+plastic_surgery,Wound healing delayed after abdominoplasty.
+orthopedic_surgery,Radiograph confirms stable placement of acetabular cup.
+dermatology,Patient shows thickened toenails.
+orthopedic_surgery,Mild patellar tracking issues noted.
+ophthalmology,Patient reports worsening of central vision.
+ophthalmology,Keratitis suspected due to corneal inflammation.
+oncology,Breast tumor recurrence seen on imaging.
+oncology,CT abdomen shows enlarged spleen; malignancy possible.
+dermatology,Scaling and redness around nose consistent with seborrheic dermatitis.
+oncology,Biopsy confirms lymphoma relapse.
+dermatology,Patchy hair loss observed; alopecia areata likely.
+ophthalmology,Patient reports increased sensitivity to wind.
+dermatology,Pitted keratolysis noted on soles.
+dermatology,Psoriasis involving scalp and knees.
+oncology,PET scan shows high uptake in pelvic bone.
+ophthalmology,Patient complains of sensitivity to sunlight.
+oncology,MRI brain reveals metastatic lesions.
+dermatology,Vitiligo patches spreading over left forearm.
+oncology,CT abdomen shows adrenal mass.
+dermatology,Painful boil present on left thigh.
+plastic_surgery,Forehead reconstruction healing appropriately.
+dermatology,Chronic itching due to lichen simplex chronicus.
+dermatology,Dark spots forming after healed pimples.
+ophthalmology,Patient reports scratchy eye feeling all day.
+plastic_surgery,Patient reports mild asymmetry in reconstructed breast.
+orthopedic_surgery,Mild effusion noted around knee prosthesis.
+dermatology,Patient reports persistent acne on cheeks despite topical treatment.
+ophthalmology,Macular degeneration signs visible on OCT scan.
+ophthalmology,Patient experiences rainbow halos around lights.
+ophthalmology,Ptosis (drooping eyelid) noted in left eye.
+orthopedic_surgery,X-ray confirms stable posterior instrumentation.
+orthopedic_surgery,Bone healing at 70% based on radiographic density.
+dermatology,Cracked heels with mild bleeding observed.
+orthopedic_surgery,Implant shows proper torque; no loosening detected.
+orthopedic_surgery,X-ray shows proper alignment of hip prosthesis with no loosening.
+oncology,PET scan shows hypermetabolism in cervical lymph nodes.
+plastic_surgery,Eyelid lift produced symmetrical results.
+oncology,CT-guided biopsy confirms lung adenocarcinoma.
+plastic_surgery,Skin graft donor site shows mild erythema.
+orthopedic_surgery,Patient reports mechanical clicking in ankle joint.
+plastic_surgery,Implant exposure suspected; urgent evaluation needed.
+dermatology,Skin examination shows multiple hyperpigmented lesions on back.
+orthopedic_surgery,Persistent swelling noted around hip incision.
+ophthalmology,Patient has recurrent stye issues.
+dermatology,"Patient presents with dry, cracked skin on hands during winter."
+plastic_surgery,Post-op pain improving with medications.
+oncology,MRI reveals small enhancing mass in left kidney.
+plastic_surgery,Breast reduction performed due to chronic back pain.
+oncology,CT abdomen confirms colonic obstruction.
+plastic_surgery,Patient requests revision for nasal tip droop.
+plastic_surgery,Rhinoplasty revision planned for dorsal irregularity.
+ophthalmology,Corneal abrasion improving with therapy.
+orthopedic_surgery,Patient reports intermittent spasms around hip.
+plastic_surgery,Breast reconstruction symmetry acceptable.
