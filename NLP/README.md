@@ -9,6 +9,8 @@ Jinna Embeddings: https://huggingface.co/jinaai/jina-embeddings-v4
 
 Chunking Methods: https://medium.com/@anuragmishra_27746/five-levels-of-chunking-strategies-in-rag-notes-from-gregs-video-7b735895694d
 
+Vector DB: https://www.pinecone.io/learn/vector-database/
+
 ```
 !pip install -q langchain langchain-community langchain-text-splitters
 ```
