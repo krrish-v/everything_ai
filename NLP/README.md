@@ -5,7 +5,7 @@ Qwen 3: https://huggingface.co/Qwen/Qwen3-0.6B
 
 Langchain: https://docs.langchain.com/oss/python/langchain/overview
 
-Jinna Embeddings: https://huggingface.co/jinaai/jina-embeddings-v4
+Jinna Embeddings: https://huggingface.co/jinaai/jina-embeddings-v2-base-en
 
 Nomic Embeddings: https://huggingface.co/nomic-ai/nomic-embed-text-v1
 
