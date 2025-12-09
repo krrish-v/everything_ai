@@ -9,5 +9,5 @@ Jinna Embeddings: https://huggingface.co/jinaai/jina-embeddings-v4
 
 
 ```
-!pip install -q langchain langchain-community
+!pip install -q langchain langchain-community langchain-text-splitters
 ```
