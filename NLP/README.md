@@ -7,6 +7,10 @@ Langchain: https://docs.langchain.com/oss/python/langchain/overview
 
 Jinna Embeddings: https://huggingface.co/jinaai/jina-embeddings-v4
 
+Nomic Embeddings: https://huggingface.co/nomic-ai/nomic-embed-text-v1
+
+Qwen2 Embeddings: https://huggingface.co/Qwen/Qwen3-Embedding-0.6B
+
 Chunking Methods: https://medium.com/@anuragmishra_27746/five-levels-of-chunking-strategies-in-rag-notes-from-gregs-video-7b735895694d
 
 Vector DB: https://www.pinecone.io/learn/vector-database/
