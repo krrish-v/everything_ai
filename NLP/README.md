@@ -15,6 +15,8 @@ Chunking Methods: https://medium.com/@anuragmishra_27746/five-levels-of-chunking
 
 Vector DB: https://www.pinecone.io/learn/vector-database/
 
+Re-Ranking: https://medium.com/@sahin.samia/what-is-reranking-in-retrieval-augmented-generation-rag-ee3dd93540ee
+
 ```
 !pip install -q langchain langchain-community langchain-text-splitters
 ```
