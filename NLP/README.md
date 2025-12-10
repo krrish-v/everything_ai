@@ -19,6 +19,8 @@ Re-Ranking: https://medium.com/@sahin.samia/what-is-reranking-in-retrieval-augme
 
 TRL - Transformer Reinforcement Learning: https://github.com/huggingface/trl
 
+Qunatization: https://huggingface.co/docs/optimum/en/concept_guides/quantization | https://huggingface.co/docs/optimum/en/concept_guides/quantization
+
 BitandBytes: https://huggingface.co/docs/transformers/en/quantization/bitsandbytes
 
 ```
