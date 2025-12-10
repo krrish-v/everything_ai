@@ -19,6 +19,8 @@ Re-Ranking: https://medium.com/@sahin.samia/what-is-reranking-in-retrieval-augme
 
 TRL - Transformer Reinforcement Learning: https://github.com/huggingface/trl
 
+BitandBytes: https://huggingface.co/docs/transformers/en/quantization/bitsandbytes
+
 ```
 !pip install -q langchain langchain-community langchain-text-splitters
 ```
