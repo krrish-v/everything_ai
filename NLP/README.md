@@ -17,6 +17,8 @@ Vector DB: https://www.pinecone.io/learn/vector-database/
 
 Re-Ranking: https://medium.com/@sahin.samia/what-is-reranking-in-retrieval-augmented-generation-rag-ee3dd93540ee
 
+TRL - Transformer Reinforcement Learning: https://github.com/huggingface/trl
+
 ```
 !pip install -q langchain langchain-community langchain-text-splitters
 ```
