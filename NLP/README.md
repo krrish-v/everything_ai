@@ -26,3 +26,5 @@ BitandBytes: https://huggingface.co/docs/transformers/en/quantization/bitsandbyt
 Prompt Tuning: https://www.geeksforgeeks.org/artificial-intelligence/prompt-tuning/
 
 Fine-Tuning LLMs with Unsloth and Ollama: https://www.guvi.in/blog/fine-tuning-llms-with-unsloth-and-ollama/
+
+Image to Image: https://huggingface.co/black-forest-labs/FLUX.2-dev
