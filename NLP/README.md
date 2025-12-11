@@ -23,6 +23,8 @@ Qunatization: https://huggingface.co/docs/optimum/en/concept_guides/quantization
 
 BitandBytes: https://huggingface.co/docs/transformers/en/quantization/bitsandbytes
 
+Prompt Tuning: https://www.geeksforgeeks.org/artificial-intelligence/prompt-tuning/
+
 ```
 !pip install -q langchain langchain-community langchain-text-splitters
 ```
