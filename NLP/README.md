@@ -25,6 +25,4 @@ BitandBytes: https://huggingface.co/docs/transformers/en/quantization/bitsandbyt
 
 Prompt Tuning: https://www.geeksforgeeks.org/artificial-intelligence/prompt-tuning/
 
-```
-!pip install -q langchain langchain-community langchain-text-splitters
-```
+Fine-Tuning LLMs with Unsloth and Ollama: https://www.guvi.in/blog/fine-tuning-llms-with-unsloth-and-ollama/
