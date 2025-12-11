@@ -28,3 +28,5 @@ Prompt Tuning: https://www.geeksforgeeks.org/artificial-intelligence/prompt-tuni
 Fine-Tuning LLMs with Unsloth and Ollama: https://www.guvi.in/blog/fine-tuning-llms-with-unsloth-and-ollama/
 
 Image to Image: https://huggingface.co/black-forest-labs/FLUX.2-dev
+
+Quantization on Diffusion: https://huggingface.co/docs/diffusers/quantization/overview
