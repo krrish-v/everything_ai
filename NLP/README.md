@@ -30,3 +30,5 @@ Fine-Tuning LLMs with Unsloth and Ollama: https://www.guvi.in/blog/fine-tuning-l
 Image to Image: https://huggingface.co/black-forest-labs/FLUX.2-dev
 
 Quantization on Diffusion: https://huggingface.co/docs/diffusers/quantization/overview
+
+Gguf image to image: https://huggingface.co/AlekseyCalvin/FLUX2_dev_2bit_hqq
